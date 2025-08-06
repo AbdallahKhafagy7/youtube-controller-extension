@@ -1,0 +1,28 @@
+#box {
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    display: flex;
+    border-radius: 20px;
+    z-index: 9999;
+    overflow: hidden;
+}
+
+#box button {
+    background: none;
+    border: none;
+    color: white;
+    transition: background-color 0.1s ease;
+}
+
+#box button:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+}
+
+#box p {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 3px 5px;
+}
