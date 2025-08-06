@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "YouTube Controller",
+  "name": "YouTube Video Controller",
   "version": "1.0",
-  "description": "Control YouTube video with ease.",
+  "description": "Control YouTube Videos With Ease.",
   "action": {
     "default_popup": "popup.html"
   },
